@@ -1,0 +1,12 @@
+{
+  "sourceLanguage": "en",
+  "targetLanguage": "hi",
+  "segments": [
+    {
+      "start": 0,
+      "end": 28.22,
+      "text": "This is how you open a $100,000 car door. Pretty simple. $1 million. Ooh, not too hard. I don't know how to open it. I don't think it's down here. Oh. If you don't open it from the inside, I'm not sure how to. So— There is no door handle anywhere. I'm not sure how to open this door, and it's too expensive for me to touch it. And lastly, this $100 million car. It's the first Ferrari ever made. It was before they figured out the whole door thing.",
+      "translatedText": "यह है एक $100,000 की कार का दरवाज़ा खोलने का तरीका। काफी सरल। $1 मिलियन। ओह, ज़्यादा मुश्किल नहीं। मुझे नहीं पता इसे कैसे खोलना है। मुझे नहीं लगता यह यहाँ नीचे है। ओह। अगर आप इसे अंदर से नहीं खोलते, तो मुझे नहीं पता कैसे। तो— कहीं भी कोई दरवाज़े का हैंडल नहीं है। मुझे यकीन नहीं है कि यह दरवाज़ा कैसे खोलूँ, और यह मेरे छूने के लिए बहुत महंगा है। और अंत में, यह $100 मिलियन की कार। यह अब तक बनी पहली फेरारी है। यह उस समय से पहले की है जब उन्होंने पूरा दरवाज़े वाला मामला समझा था।"
+    }
+  ]
+}
