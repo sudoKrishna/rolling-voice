@@ -10,6 +10,7 @@
     "typescript": "^5"
   },
   "dependencies": {
+    "@sync.so/sdk": "^0.3.0",
     "commander": "^15.0.0"
   }
 }
