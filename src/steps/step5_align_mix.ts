@@ -65,7 +65,7 @@ export async function alignAndMix(
   return finalPath;
 }
 
-// CLI entry point: `npm run step5`
+
 if (import.meta.url === `file://${process.argv[1]}`) {
   const { SETTINGS } = await import("../config.js");
   const translatedPath = path.join(SETTINGS.workDir, "translated_transcript.json");
